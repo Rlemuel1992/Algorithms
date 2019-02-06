@@ -1,0 +1,6 @@
+C:\Users\Ronad\source\repos\PlzWork\PlzWork\bin\Debug\PlzWork.exe.config
+C:\Users\Ronad\source\repos\PlzWork\PlzWork\bin\Debug\PlzWork.exe
+C:\Users\Ronad\source\repos\PlzWork\PlzWork\bin\Debug\PlzWork.pdb
+C:\Users\Ronad\source\repos\PlzWork\PlzWork\obj\Debug\PlzWork.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\PlzWork\PlzWork\obj\Debug\PlzWork.exe
+C:\Users\Ronad\source\repos\PlzWork\PlzWork\obj\Debug\PlzWork.pdb
